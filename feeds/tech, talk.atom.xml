@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/tech,%20talk.atom.xml" rel="self"></link><id>/</id><updated>2013-03-11T10:20:00Z</updated><entry><title>My video from #MejorandoCO [spanish]</title><link href="/mejorandoco.html" rel="alternate"></link><updated>2013-03-11T10:20:00Z</updated><author><name>Julián Amaya</name></author><id>tag:,2013-03-11:mejorandoco.html</id><summary type="html">&lt;!-- Tags: thats, awesome
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech ideas from Bogotá</title><link href="/" rel="alternate"></link><link href="/feeds/tech,%20talk.atom.xml" rel="self"></link><id>/</id><updated>2013-03-11T10:20:00-05:00</updated><entry><title>My video from #MejorandoCO [spanish]</title><link href="/mejorandoco.html" rel="alternate"></link><updated>2013-03-11T10:20:00-05:00</updated><author><name>Julián Amaya</name></author><id>tag:,2013-03-11:mejorandoco.html</id><summary type="html">&lt;!-- Tags: thats, awesome
 Slug: my-super-post
 Summary: Short version for index and feeds --&gt;
 
