@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/tech,%20db.atom.xml" rel="self"></link><id>/</id><updated>2013-03-12T10:20:00Z</updated><entry><title>No more ER diagrams please!</title><link href="/no-more-erd.html" rel="alternate"></link><updated>2013-03-12T10:20:00Z</updated><author><name></name></author><id>tag:,2013-03-12:no-more-erd.html</id><summary type="html">&lt;!-- Tags: thats, awesome
+Slug: my-super-post
+Author: Alexis Metaireau
+Summary: Short version for index and feeds --&gt;
+
+&lt;p&gt;Having been working with other developing companies in Bogotá, one of the worst practices I've seen is using the ERD as the &lt;em&gt;first&lt;/em&gt; and sometimes only  &lt;/p&gt;
+&lt;h2&gt;What's an Entity Relationship Diagram?&lt;/h2&gt;
+&lt;p&gt;From wikipedia:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An ER model is an abstract way to describe a database. Describing a database usually starts with a relational database, which stores data in tables. Some of the data in these tables point to data in other tables - for instance, your entry in the database could point to several entries for each of the phone numbers that are yours. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They kinda look like: &lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt text" src="./static/images/er-diagram.jpg" /&gt;.&lt;/p&gt;
+&lt;p&gt;(This is an actual example from a government project we worked on last year.)&lt;/p&gt;
+&lt;h2&gt;How before why&lt;/h2&gt;
+&lt;p&gt;To me, &lt;/p&gt;</summary></entry></feed>
